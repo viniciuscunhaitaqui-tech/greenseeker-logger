@@ -1,0 +1,16 @@
+{
+  "name": "Leitor GreenSeeker",
+  "short_name": "GS Logger",
+  "description": "Registro de NDVI do GreenSeeker via Bluetooth, com GPS e exportação CSV.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f2f5f0",
+  "theme_color": "#1f3a2b",
+  "lang": "pt-BR",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
